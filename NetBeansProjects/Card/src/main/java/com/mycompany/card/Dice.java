@@ -18,6 +18,7 @@ public class Dice {
         this.DICEVALUE = value;
     }
 
+    //Changing Dice to be a collection of faces to represent 1 dice instead of 1 face from a dice
     public enum DiceFace {
         ONE,
         TWO,
